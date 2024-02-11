@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.2",
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  },
+  "name": "test-task-doczilla2-back",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmdFormatC/test-task-doczilla3-proxy.git"
+  },
+  "author": "Fedor Bragin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmdFormatC/test-task-doczilla3-proxy/issues"
+  },
+  "homepage": "https://github.com/cmdFormatC/test-task-doczilla3-proxy#readme",
+  "description": ""
+}
